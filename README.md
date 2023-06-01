@@ -1,6 +1,6 @@
 # Time of day service resource driver
 
-A project to explore how to write a custom humanitect resource driver
+A project to explore how to write a custom humanitec resource driver
 
 ## Deploying
 
